@@ -1,6 +1,6 @@
 ### Konnichiwa 👋 I'm Yuko 👩🏻‍💻✨
 #
-🌱 I’m currently learning Web Development at DCI (Digital Career Institute).
+🌱 I’m currently learning Web Development at DCI (Digital Career Institute).:octocat:
 <!--
 **yukosuga/yukosuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

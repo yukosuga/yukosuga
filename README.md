@@ -1,12 +1,11 @@
-### Konnichiwa 👋 I'm Yuko 👩🏻‍💻✨
-#
-🌱 A web designer currently honing my skills in the exciting world of web development at DCI (Digital Career Institute).:octocat:
+# Konnichiwa 👋 I'm Yuko 👩🏻‍💻✨
+🌱 **Web Designer** currently honing my skills in the exciting world of web development at **DCI** (Digital Career Institute) :octocat:
 
-With a strong passion for coding and a keen eye for design🎨, I'm on a mission to transform my love for technology into a successful career✨
+- With a strong passion for coding and a keen eye for design, I'm on a mission to transform my love for technology into a successful career.
 
-My journey into web development started at DCI, where I'm immersed in a comprehensive curriculum that covers front-end and back-end technologies. From HTML and CSS to JavaScript and beyond, I'm eager to master the building blocks of the web and stay up-to-date with emerging trends and frameworks💻
+- My journey into web development started at **DCI**, where I'm immersed in a comprehensive curriculum that covers front-end and back-end technologies. From `HTML` and `CSS` to `JavaScript` and beyond, I'm eager to master the building blocks of the web and stay up-to-date with emerging trends and frameworks.
 
-In addition to my studies, I have hands-on experience with WordPress, a powerful content management system. I have successfully built and customized websites using WordPress, leveraging its flexibility and extensive plugin ecosystem to create engaging online experiences🍀
+- In addition to my studies, I have hands-on experience with `WordPress`, a powerful content management system. I have successfully built and customized websites using `WordPress`, leveraging its flexibility and extensive plugin ecosystem to create engaging online experiences.
 <!--
 **yukosuga/yukosuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

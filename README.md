@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-ffffff?style=social&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-ffffff?style=social&logo=CSS3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-ffffff?style=social&logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/WordPress-ffffff?style=social&logo=WordPress)
+![Static Badge](https://img.shields.io/badge/WordPress-ffffff?style=social&logo=WordPress)  
 ![Static Badge](https://img.shields.io/badge/Linux-ffffff?style=social&logo=Linux)
 ![Static Badge](https://img.shields.io/badge/Git-ffffff?style=social&logo=Git)
 ![Static Badge](https://img.shields.io/badge/VisualStudioCode-ffffff?style=social&logo=VisualStudioCode)

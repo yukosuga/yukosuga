@@ -5,7 +5,7 @@
 
 - My journey into web development started at **DCI**, where I'm immersed in a comprehensive curriculum that covers front-end and back-end technologies. From `HTML` and `CSS` to `JavaScript` and beyond, I'm eager to master the building blocks of the web and stay up-to-date with emerging trends and frameworks.
 
-- In addition to my studies, I have hands-on experience with `WordPress`, a powerful content management system. I have successfully built and customized websites using `WordPress`, leveraging its flexibility and extensive plugin ecosystem to create engaging online experiences.
+- In addition to my studies, I have hands-on experience with `WordPress`, a powerful content management system. I have successfully built and customized over 30 websites using `WordPress`, leveraging its flexibility and extensive plugin ecosystem to create engaging online experiences.
 
 ![Static Badge](https://img.shields.io/badge/HTML5-ffffff?style=social&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-ffffff?style=social&logo=CSS3)

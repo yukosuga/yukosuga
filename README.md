@@ -1,5 +1,5 @@
 # Konnichiwa 👋 I'm Yuko 👩🏻‍💻✨
-🌱 **Web Developer** passionate about coding and design. :octocat:
+🌱 **Web Developer** passionate about coding and design :octocat:
 
 - With a strong passion for coding and a keen eye for design, I'm on a mission to transform my love for technology into a successful career.
 

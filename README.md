@@ -1,5 +1,5 @@
 # Konnichiwa 👋 I'm Yuko 👩🏻‍💻✨
-🌱 **Web Designer** currently honing my skills in the exciting world of web development at **DCI** (Digital Career Institute) :octocat:
+🌱 **Web Developer** passionate about coding and design. :octocat:
 
 - With a strong passion for coding and a keen eye for design, I'm on a mission to transform my love for technology into a successful career.
 
